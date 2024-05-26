@@ -1,14 +1,19 @@
-A new Flutter project.
+**Rebahin+** adalah _aplikasi Android pihak ketiga_ yang dirancang khusus untuk mengakses situs Rebahin dengan fitur keamanan terupdate dan pengalaman menonton yang bebas dari gangguan iklan.
+Semua layanan streaming dan berbagai macam konten, termasuk film-film terbaru, serial televisi populer, dan berbagai genre lainnya disediakan langsung oleh situ Rebahin.
+Silahkan kunjungin situs rebahin untuk info lengkapnya..
 
-## Getting Started
+**Fitur Utama:**
 
-This project is a starting point for a Flutter application.
+Pemblokiran Iklan: Nikmati streaming tanpa gangguan iklan. Aplikasi ini dilengkapi dengan fitur pemblokiran iklan canggih yang secara otomatis menyaring dan menghapus iklan yang muncul, sehingga Anda dapat menikmati konten tanpa interupsi.
 
-A few resources to get you started if this is your first Flutter project:
+Antarmuka Pengguna Intuitif: Dengan desain yang bersih dan mudah digunakan, Rebahin+ memberikan pengalaman pengguna yang nyaman, memudahkan Anda untuk menemukan dan menonton konten yang diinginkan.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Pembaruan Otomatis: Aplikasi ini secara otomatis memperbarui data, link dan fitur pemblokiran iklan untuk memastikan perlindungan terbaik dan pengalaman menonton yang optimal.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi Rebahin+ di desain berjalan cepat dan optimal di perangkat android.
+
+
+
+**Peringatan:**
+
+jika terdapat kendala, akses link film rusak, konten film bermasalah atau bahkan loading website terlalu lama, silahkan cek jaringan anda atau lapor https://rebahinxxi.info/
