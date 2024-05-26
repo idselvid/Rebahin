@@ -10,7 +10,7 @@ Antarmuka Pengguna Intuitif: Dengan desain yang bersih dan mudah digunakan, Reba
 
 Pembaruan Otomatis: Aplikasi ini secara otomatis memperbarui data, link dan fitur pemblokiran iklan untuk memastikan perlindungan terbaik dan pengalaman menonton yang optimal.
 
-Aplikasi Rebahin+ di desain berjalan cepat dan optimal di perangkat android.
+Aplikasi Rebahin+ di desain berjalan cepat dan optimal di perangkat aAndroid dan TV Android. download rilis terbaru https://github.com/idselvid/Rebahin/releases/tag/v1.1.11 
 
 
 
