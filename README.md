@@ -17,3 +17,5 @@ Aplikasi Rebahin+ di desain berjalan cepat dan optimal di perangkat aAndroid dan
 **Peringatan:**
 
 jika terdapat kendala, akses link film rusak, konten film bermasalah atau bahkan loading website terlalu lama, silahkan cek jaringan anda atau lapor https://rebahinxxi.info/
+
+![rebahin+1](https://github.com/idselvid/Rebahin/assets/166180231/1f8d6e55-fd71-4186-8b1f-735e7d2a75ce)
