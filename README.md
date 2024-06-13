@@ -4,6 +4,8 @@ Silahkan kunjungin situs rebahin untuk info lengkapnya..
 
 **Aplikasi di Buat untuk Penikmat Film yang jenuh dengan Iklan Judi & PopUp** !!! Enjoy The Movie
 
+_Support_ **Android** & **Android TV**
+
 **Fitur Utama:**
 
 Pemblokiran Iklan: Nikmati streaming tanpa gangguan iklan. Aplikasi ini dilengkapi dengan fitur pemblokiran iklan canggih yang secara otomatis menyaring dan menghapus iklan yang muncul, sehingga Anda dapat menikmati konten tanpa interupsi.
@@ -12,7 +14,7 @@ Antarmuka Pengguna Intuitif: Dengan desain yang bersih dan mudah digunakan, Reba
 
 Pembaruan Otomatis: Aplikasi ini secara otomatis memperbarui data, link dan fitur pemblokiran iklan untuk memastikan perlindungan terbaik dan pengalaman menonton yang optimal.
 
-Aplikasi Rebahin+ di desain berjalan cepat dan optimal di perangkat aAndroid dan TV Android. _download rilis terbaru_ https://github.com/idselvid/Rebahin/releases/tag/v1.1.11 
+Aplikasi Rebahin+ di desain berjalan cepat dan optimal di perangkat aAndroid dan TV Android. _download rilis terbaru_ https://github.com/idselvid/Rebahin/releases
 
 
 
