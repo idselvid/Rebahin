@@ -27,3 +27,6 @@ jika terdapat kendala, akses link film rusak, konten film bermasalah atau bahkan
 **100% Bebas Virus/Maleware**  hasil = https://www.virustotal.com/gui/file/5305cc0cbc186c53f967f0b143814f25018dbccfe9ecce0a3835e2e07a5febf1/detection
 
 ![VirusTotal](https://github.com/idselvid/Rebahin/assets/166180231/2a0c83db-255d-4801-b3be-82fef03b4550)
+
+
+Kalau Suka dengan Aplikasinya silahkan di install, kalau tidak hapus saja !!!
