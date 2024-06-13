@@ -2,6 +2,8 @@
 Semua layanan streaming dan berbagai macam konten, termasuk film-film terbaru, serial televisi populer, dan berbagai genre lainnya disediakan langsung oleh situ Rebahin.
 Silahkan kunjungin situs rebahin untuk info lengkapnya..
 
+**Aplikasi di Buat untuk Penikmat Film yang jenuh dengan Iklan Judi & PopUp** !!! Enjoy The Movie
+
 **Fitur Utama:**
 
 Pemblokiran Iklan: Nikmati streaming tanpa gangguan iklan. Aplikasi ini dilengkapi dengan fitur pemblokiran iklan canggih yang secara otomatis menyaring dan menghapus iklan yang muncul, sehingga Anda dapat menikmati konten tanpa interupsi.
@@ -16,6 +18,10 @@ Aplikasi Rebahin+ di desain berjalan cepat dan optimal di perangkat aAndroid dan
 
 **Peringatan:**
 
-jika terdapat kendala, akses link film rusak, konten film bermasalah atau bahkan loading website terlalu lama, silahkan cek jaringan anda atau lapor https://rebahinxxi.info/
+jika terdapat kendala, akses link film rusak, konten film bermasalah atau bahkan loading website terlalu lama, silahkan cek jaringan anda atau lapor https://rebahinxxi.top/
 
 ![rebahin+1](https://github.com/idselvid/Rebahin/assets/166180231/1f8d6e55-fd71-4186-8b1f-735e7d2a75ce)
+
+**100% Bebas Virus/Maleware**  hasil = https://www.virustotal.com/gui/file/5305cc0cbc186c53f967f0b143814f25018dbccfe9ecce0a3835e2e07a5febf1/detection
+
+![VirusTotal](https://github.com/idselvid/Rebahin/assets/166180231/2a0c83db-255d-4801-b3be-82fef03b4550)
